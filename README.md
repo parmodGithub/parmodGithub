@@ -281,3 +281,88 @@ Check time to complete, check if instructions are clear and confirm flashing wor
 
 
 
+
+
+
+
+**TASK ALLOCATION**
+
+Task # 1 Explore AI hub and integrate model from AI hub into existing Sample Application.
+
+[Developer Name:Akhil Nelaturi / Sirisha R][QC PoC :Rakesh R]
+
+Task # 2 Bring new model to AI hub (BYOM) and integrate model into existing Sample Applications (supported models in IMSDK).
+
+[Developer Name:Akhil Nelaturi / Sirisha R][QC PoC :Rakesh R]
+
+Task # 3 Setup QAIRT SDK, Compile & Optimize an AI model using SNPE/QNN. Integrate into existing Sample Application
+
+[Developer Name: Susantini Behera / Sirisha R][QC PoC : Nitika G]
+
+Task # 4 Experience QDC Workflow in AI developer workflow and try sample application from Qualcomm Developers Cloud. 
+
+[Developer Name:Manoj Chandra / Tarun Pulluri][QC PoC : Nitika G]
+
+Task # 5 Develop your first QIM SDK application. 
+
+[Developer Name: Manoj Chandra / SHAIK KARIMULLASHAW][QC PoC : Rakesh R]
+
+Task # 6 Develop new Reference Application – GST based. 
+
+[Developer Name: Rajesh Chanda / Susantini Behera][QC PoC : Nitika G]
+
+Task # 7 Experience One-click launcher and execute sample application from One Click launcher 
+
+[Developer Name: Durgaprasad Bethi/ Tarun Pulluri][QC PoC : Rahul K ]
+
+Task # 8 Create IMSDK Container Image and execute the sample applications inside the container
+
+[Developer Name: Sirisha R / Tarun Pulluri][QC PoC : Rahul K ]
+
+Task # 9 Develop Application with Python API of Gstreamer
+
+[Developer Name: Rajesh Chanda / Susantini Behera][QC PoC : Nitika G ]
+
+Task # 10 Explore existing sample Applications on RB3Gen2 – GST Sample Applications, and Python Sample Applications
+
+[Developer Name: Sahasra KEERTHI/ Durgaprasad Bethi][QC PoC : Rakesh R ]
+
+Task # 11 Experience the IDE and Execute the sample applications inside the IDE
+
+[Developer Name: Rajesh Chanda / SHAIK KARIMULLASHAW][QC PoC : Rahul K / Sahaj ]
+
+Task # 12.1 Video encode with GMSL Camera using Gstreamer commands
+
+[Developer Name: Gnaneshwar Bandari][QC PoC : Balakrishnamachary ]
+
+Task # 12.2 Audio decode and encode using GStreamer application (RB3)
+
+[Developer Name: Venkata Sai Dharanikota][QC PoC : Sharad Sangle ]
+
+Task # 12.3 Verify driver level playback and record
+
+[Developer Name: Geethavani Pallati][QC PoC : Sharad Sangle ]
+
+Task # 13.1 Video playback using GST command
+
+[Developer Name: Sanga Ankita][QC PoC : Harikrishna C ]
+
+Task # 13.2 Offline Video decode using V4l2 test app (Host PC Kernel >v6.6)
+
+[Developer Name: Srikanth Guptha][QC PoC : Harikrishna C ]
+
+Task # 14 Implement OpenCV rotate application with FastCV
+
+[Developer Name: SK Arif Majid][QC PoC : Harikrishna C ]
+
+Task # 15.1 Weston EGL client application commands
+
+[Developer Name: Emandi Jagadesh][QC PoC : Tanuj Kumar ]
+
+Task # 15.2 Compile and run GLES and Vulkan applications
+
+[Developer Name: Jakir Hussain][QC PoC : Tanuj Kumar ]
+
+Task # 16 Upgrade existing RB3Gen2
+
+[Developer Name: Rajkumar D][QC PoC : Rajender R ]
