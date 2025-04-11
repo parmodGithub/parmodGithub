@@ -172,10 +172,8 @@ Note:
 For RB3(QCS6490):
 GMSL camera : 
 Supported. Please check GMSL camera is connected to RB3 device .
- 
 MIPI camera:
 Supported. Camera sensors are attached to device by default.
- 
 USB camera:
 Supported. Please check USB camera connected on RB3 device.
  
@@ -193,10 +191,8 @@ Supported. Please check USB camera connected on RB8 core kit.
 For Ride SX (QCS8300) please check:
 GMSL camera :
 Supported. Please check GMSL camera is connected to device
- 
 MIPI camera:
 Not supported
- 
 Usb camera:
 Supported. Please check USB camera connected on Ride SX device
 
